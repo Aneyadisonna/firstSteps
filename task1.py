@@ -1,6 +1,7 @@
 '''
 Task 1
-how many complete rows of coins (with increasing numbers of coins in each row) can be placed with a given number of coins `num`
+how many complete rows of coins (with increasing numbers of coins in each row) 
+can be placed with a given number of coins `num`
 '''
 
 
